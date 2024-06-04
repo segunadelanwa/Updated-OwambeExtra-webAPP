@@ -1,0 +1,144 @@
+[26-Oct-2021 09:51:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 09:51:00 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 09:52:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 09:52:17 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 09:52:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 09:52:53 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:01:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:01:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:01:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:01:44 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:02:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:02:17 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:08:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:08:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:09:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:09:32 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:10:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:10:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:17:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:17:01 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:17:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:17:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:17:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:17:52 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:24:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:24:12 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:24:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:24:44 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[26-Oct-2021 10:25:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[26-Oct-2021 10:25:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:15:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:15:42 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:17:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:17:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:17:28 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:17:28 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:33:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:33:05 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:33:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:33:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:34:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:34:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:41:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:41:50 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:42:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:42:23 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6
+[21-Nov-2021 03:43:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/owambext/public_html/admin/index.php on line 5
+[21-Nov-2021 03:43:05 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/owambext/public_html/db_config.php:6
+Stack trace:
+#0 /home/owambext/public_html/admin/index.php(6): require()
+#1 {main}
+  thrown in /home/owambext/public_html/db_config.php on line 6

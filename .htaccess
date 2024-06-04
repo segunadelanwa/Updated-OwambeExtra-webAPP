@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} owambezone\.com [NC]
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^category/(.*)/(.*)$ eventpage.php?id=$1
+RewriteRule ^([0-9]+)$ eventpage.php?id=$1

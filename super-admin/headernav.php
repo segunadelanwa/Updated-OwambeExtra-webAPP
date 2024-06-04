@@ -1,0 +1,51 @@
+      
+<?php
+$loader->session_Off(); 
+?>
+
+	  <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+            <a class="navbar-brand" href="../index.php"><img src='../images/logo.png' style='height:80px;' /></a>
+           <button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fa fa-bars"></i></button>
+            <!-- Navbar Search-->
+            <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
+                <div class="input-group">
+                    <!-- Navbar Search
+					<input class="form-control" type="text" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2" />
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="button"><i class="fas fa-search"></i></button>
+                    </div>
+					 Navbar Search-->
+                </div>
+            </form>
+            <!-- Navbar-->
+            <ul class="navbar-nav ml-auto ml-md-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="userDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<!--<i class="fas fa-user fa-fw"></i>-->					
+					 <?php
+
+					if($password == 'google_password')
+					{
+					echo'<img class="rounded" src="'.$_SESSION['user_picture_name'].'"   width="50px"  />';															
+					}
+					else if(empty($photo))
+					{
+					echo"<a href='index.php?photo'><img class='rounded' src='img/placeholder.png'  width='50px'></a>";	
+					}
+					else if(!empty($photo))
+					{
+					echo"<img class='rounded' src='imagefolder/$cornfirm'   width='50px'>";	
+					}
+					?>
+					
+					</a>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+                        <a class="dropdown-item" href="index.php?update-profile">Settings</a>
+                        <a class="dropdown-item" href="index.php?photo">Update Photo</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="logout.php">Logout</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+		

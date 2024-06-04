@@ -1,0 +1,21 @@
+REQUIRMENT
+
+1 what will be the company percentage deduction on each gift recieved from users
+this will include below
+Vat:7.5%
+Paystack Gateway: 1.5%
+Bank Payment Charges during disburstment: 10%
+
+
+2.Term & Condition Pages
+3.Who to Asscribe to provide Graphic Template
+
+
+Diamond( 1,000,000 >  ) 5%
+Gold   ( 500,001-1,000,000 ) 5%
+sliver ( 100,001 - 500,000 ) 5%
+Bronze ( 1000 - 100,000 ) 10%
+
+minimum to cashout is 1000
+
+
